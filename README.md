@@ -11,6 +11,17 @@ and an Amazon Shipping Calculator. It was developed to strengthen my understandi
 This project focuses on building real-world UI interactions using JavaScript. It demonstrates how modern web applications respond instantly to user actions without page refresh.
 
 ---------------------------------------------------------------------------------------------
+ 
+ ✦ Demo
+
+ Screen Recording 2026-06-05 141557.mp4
+ 
+ ✦ Screenshots
+
+ Screenshot 2026-06-05 142317.png
+ Screenshot 2026-06-05 142332.png
+ -------------------------------------------------------------------------------------------
+
 
 ✦ Features
 
