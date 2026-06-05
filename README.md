@@ -7,8 +7,8 @@ This project focuses on building real-world UI interactions using JavaScript. It
 
 ✦ Screenshots
 
-![youtube subscribe/subscribed and amazon shipping](images/image2.png)
-![youtube subscribe/subscribed and amazon shipping](images/image1.png)
+![youtube subscribe/subscribed and amazon shipping](image2.png)
+![youtube subscribe/subscribed and amazon shipping](image1.png)
 
 
 ✦ Features
