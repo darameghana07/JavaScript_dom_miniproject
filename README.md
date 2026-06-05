@@ -5,14 +5,11 @@ This project is a collection of two interactive web components: a YouTube Subscr
 
 This project focuses on building real-world UI interactions using JavaScript. It demonstrates how modern web applications respond instantly to user actions without page refresh.
 
-<<<<<<< HEAD
 ✦ Screenshots
 
-(Screenshot 2026-06-05 142317.png)
-(Screenshot 2026-06-05 142332.png)
-=======
-----------------------------------------------------------------------------------------------------------------------------------------------------------
->>>>>>> 7326cbc9e860206c5816bac106e6f872974387a3
+![youtube subscribe/subscribed and amazon shipping](images/image2.png)
+![youtube subscribe/subscribed and amazon shipping](images/image1.png)
+
 
 ✦ Features
 
