@@ -4,13 +4,13 @@ JavaScript Dom Miniproject
 This project is a collection of two interactive web components: a YouTube Subscribe button
 and an Amazon Shipping Calculator. It was developed to strengthen my understanding of JavaScript fundamentals, DOM manipulation, and event-driven programming.
 
----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✦ Project Overview
 
 This project focuses on building real-world UI interactions using JavaScript. It demonstrates how modern web applications respond instantly to user actions without page refresh.
 
----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✦ Features
 
@@ -20,7 +20,7 @@ This project focuses on building real-world UI interactions using JavaScript. It
 • Support both button click and keyboard input  
 • Instantly update results without refreshing the page  
 
-----------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✦ Technology Stack
 
@@ -52,7 +52,7 @@ This project focuses on building real-world UI interactions using JavaScript. It
 
 -------------------------------------------------------------------------------------------
 
-✦ Learning Outcomes
+✦ Outcomes
 
 Through this project, I gained practical experience in:
 
