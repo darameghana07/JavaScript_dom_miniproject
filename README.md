@@ -19,7 +19,7 @@ Interactive Interface
 
 ✦ Demo
 ---------
-Watch the complete demo video on Linkedin to see the project in action [Watch the Demo on LinkedIn]https://www.linkedin.com/posts/darameghana_%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A3%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AD-ugcPost-7468625624291753984-VM7j/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo
+Watch the complete demo video on Linkedin to see the project in action [Watch the Demo on LinkedIn](https://www.linkedin.com/posts/darameghana_%F0%9D%90%89%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%8C%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%8F%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A3%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AD-ugcPost-7468625624291753984-VM7j/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
 
 
 ✦ Features
